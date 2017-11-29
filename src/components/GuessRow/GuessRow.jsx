@@ -1,9 +1,11 @@
 import React from 'react';
+import GuessPegs from '../GuessPegs/GuessPegs';
+// import GuessScore from './components/GuessScore/GuessScore';
 
 const GuessRow = (props) => {
   return (
     <div>
-      This is GuessRow
+      Guess Row
     </div>
   );
 }

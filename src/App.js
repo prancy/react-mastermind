@@ -12,9 +12,9 @@ class App extends Component {
     return (
       <div>
         <header className="App-header">React Mastermind</header>
-        <GameBoard />
-        <ColorPicker />
         <GuessRow />
+        <GuessRow />
+        <ColorPicker />
         <NewGameButton />
         <ScoreButton />
       </div>
